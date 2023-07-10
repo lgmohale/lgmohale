@@ -8,11 +8,11 @@ I'm a passionate full-stack JavaScript engineer with a burning desire to create 
 
 ## Superpowers ✨ ##
 
-* React.js Sorcerer: I possess an arsenal of React spells that transform complex UI challenges into delightful user experiences. From state management to component composition, I wield the power of React.js with finesse.
-* Node.js Magician: I can conjure server-side enchantments using Node.js, crafting powerful APIs and blazing-fast backend systems. No task is too daunting for my Node.js spells!
-* AWS Conjurer: Harnessing the might of Amazon Web Services, I can navigate the vast AWS landscape to architect scalable and resilient cloud solutions. Be it S3, EC2, Lambda, or DynamoDB, I'll make your application soar in the cloud!
-* Docker Enchanter: With Docker, I bring harmony to development environments, taming the chaos of dependencies and configuration. I create containerized wonders that effortlessly run on any machine, anytime, anywhere.
-* Kubernetes Adventurer: Embarking on a journey through the mystical realms of Kubernetes, I orchestrate clusters and wield YAML like a seasoned explorer. Scaling and deploying applications in this world is my ultimate thrill!
+* **Bold React.js Sorcerer:** I possess an arsenal of React spells that transform complex UI challenges into delightful user experiences. From state management to component composition, I wield the power of React.js with finesse.
+* **Bold Node.js Magician:** I can conjure server-side enchantments using Node.js, crafting powerful APIs and blazing-fast backend systems. No task is too daunting for my Node.js spells!
+* **Bold AWS Conjurer:** Harnessing the might of Amazon Web Services, I can navigate the vast AWS landscape to architect scalable and resilient cloud solutions. Be it S3, EC2, Lambda, or DynamoDB, I'll make your application soar in the cloud!
+* **Bold Docker Enchanter:** With Docker, I bring harmony to development environments, taming the chaos of dependencies and configuration. I create containerized wonders that effortlessly run on any machine, anytime, anywhere.
+* **Bold Kubernetes Adventurer:** Embarking on a journey through the mystical realms of Kubernetes, I orchestrate clusters and wield YAML like a seasoned explorer. Scaling and deploying applications in this world is my ultimate thrill!
 
 ## Current Quest 🌟 ##
 
