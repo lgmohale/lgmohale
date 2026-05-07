@@ -1,29 +1,70 @@
-# Welcome to My Awesome GitHub Profile! 🚀 #
+# Hi, I'm Lucas 👋
 
-Hey there! 👋 Welcome to my GitHub profile, where code meets creativity and innovation! I'm excited to share with you the world of full-stack JavaScript development, React.js wizardry, Node.js mastery, AWS sorcery, Docker enchantments, and Kubernetes adventures! 🎉
+I'm a Full-Stack Software Engineer with 6+ years of experience building scalable, reliable, and cloud-ready applications across fintech, financial services, and data-driven platforms.
 
-## About Me ##
+I enjoy working across the stack, but I’m especially strong on backend engineering, APIs, cloud infrastructure, integrations, and building systems that are clean, maintainable, and production-ready.
 
-I'm a passionate full-stack JavaScript engineer with a burning desire to create cutting-edge web applications that bring joy to users and make developers say, "Wow, that's cool!" I thrive on challenging projects that push the boundaries of what's possible and allow me to combine my technical skills with my love for clean and elegant code.
+## About Me
 
-## Superpowers ✨ ##
+I have experience designing and developing web applications, backend services, cloud-native solutions, and data-driven platforms. My work has involved building APIs, integrating third-party services, working with financial and identity verification systems, and supporting production systems with strong focus on reliability, scalability, and maintainability.
 
-* React.js Sorcerer: I possess an arsenal of React spells that transform complex UI challenges into delightful user experiences. From state management to component composition, I wield the power of React.js with finesse.
-* Node.js Magician: I can conjure server-side enchantments using Node.js, crafting powerful APIs and blazing-fast backend systems. No task is too daunting for my Node.js spells!
-* AWS Conjurer: Harnessing the might of Amazon Web Services, I can navigate the vast AWS landscape to architect scalable and resilient cloud solutions. Be it S3, EC2, Lambda, or DynamoDB, I'll make your application soar in the cloud!
-* Docker Enchanter: With Docker, I bring harmony to development environments, taming the chaos of dependencies and configuration. I create containerized wonders that effortlessly run on any machine, anytime, anywhere.
-* Kubernetes Adventurer: Embarking on a journey through the mystical realms of Kubernetes, I orchestrate clusters and wield YAML like a seasoned explorer. Scaling and deploying applications in this world is my ultimate thrill!
+I’m passionate about solving real business problems with clean engineering, good architecture, and practical delivery.
 
-## Current Quest 🌟 ##
+## Tech Stack
 
-My current endeavor is to level up and ascend to the position of a Lead Engineer. I'm excited to take on new challenges, guide and mentor fellow developers, and contribute to the growth and success of remarkable projects. I believe in fostering a culture of collaboration, continuous learning, and innovation, where every member of the team can thrive.
+### Languages & Frameworks
+- JavaScript / TypeScript
+- Node.js / Express / NestJS
+- React.js
+- Python
+- Java / Spring Boot
 
-## Join the Adventure! 🤝 ##
+### Cloud & DevOps
+- AWS: Lambda, S3, DynamoDB, EC2, API Gateway, Glue, CloudWatch
+- Docker
+- Kubernetes
+- GitHub Actions / GitLab CI/CD
+- Jenkins
+- Terraform
 
-If you're on a quest for an experienced, passionate, and slightly geeky lead engineer to join your team, look no further! Let's embark on an epic adventure together and build something extraordinary. Feel free to explore my repositories and get in touch with me to discuss how we can achieve greatness together!
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- DynamoDB
+- Microsoft SQL Server
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/lgmohale/) and let's create magic! ✨
+### Other Tools & Practices
+- REST APIs
+- Microservices
+- CI/CD pipelines
+- Observability and monitoring
+- Structured logging
+- Agile delivery
+- System design
+- Secure API integrations
 
-> "The best code is like a spell. It not only performs its intended function but leaves behind a sense of wonder and awe." - Anonymous Wizard
+## What I Work On
 
-_May the bugs be few and your code be magical!_ 🧙‍♂️
+- Backend systems and APIs
+- Full-stack web applications
+- Cloud-native applications
+- Financial services integrations
+- Identity verification and KYC systems
+- Data ingestion and processing pipelines
+- Automation and developer tooling
+- Scalable and maintainable software architecture
+
+## Current Focus
+
+I’m currently focused on growing into more senior and lead engineering responsibilities, with a strong interest in system design, cloud architecture, engineering leadership, and building high-quality software that supports real business outcomes.
+
+## Let's Connect
+
+I'm always open to connecting with other engineers, recruiters, founders, and teams working on interesting products.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/lgmohale/).
+
+---
+
+_Thanks for visiting my GitHub profile._
